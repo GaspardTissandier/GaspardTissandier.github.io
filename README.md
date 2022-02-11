@@ -4,7 +4,7 @@ Here you will find informations about my research projects, teaching and ressour
 
 # Research
 
-* * *
+
 
 ## Heterogeneous effects of dropout on labor market outcomes : the French higher education case : 
 
