@@ -17,3 +17,4 @@ You can find a working paper version here
 ## PAVED with good intentions : an evaluation of the Gendarmerie predictive policing system (co-authored with Yann Lecorps) 
 
 In this paper, we study the efficiency and displacement effect of a predictive policing algorithm used by the Gendarmerie (a law enforcement authority in France).
+
