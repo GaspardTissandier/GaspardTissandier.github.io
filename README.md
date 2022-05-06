@@ -1,9 +1,10 @@
-# Welcome to my website
+# Welcome to my weebsite
 
 Here you will find informations about my research projects, teaching and ressources
 
-# Research
+---
 
+# Research
 
 
 ## Heterogeneous effects of dropout on labor market outcomes : the French higher education case : 
@@ -12,9 +13,18 @@ In this paper, I study the effect of dropping out on labor market outcomes for n
 
 You can find a working paper version [here](https://github.com/GaspardTissandier/GaspardTissandier.github.io/blob/main/research/draft_HTE_E_SD.pdf)
 
-* * *
+
+
 
 ## PAVED with good intentions : an evaluation of the Gendarmerie predictive policing system (co-authored with Yann Lecorps) 
 
 In this paper, we study the efficiency and displacement effect of a predictive policing algorithm used by the Gendarmerie (a law enforcement authority in France).
+
+
+---
+
+# Non academic communications
+
+With the Twitter Explorer project team from the DHAI Intensive week we build a twitter interaction network about the users who took part of the discussion about the french presidential debate. You can find a blog note about our work [here](https://blog.twitterexplorer.org/post/debatmacronlepen/)
+
 
