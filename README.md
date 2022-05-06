@@ -27,4 +27,7 @@ In this paper, we study the efficiency and displacement effect of a predictive p
 
 With the Twitter Explorer project team from the DHAI Intensive week we build a twitter interaction network about the users who took part of the discussion about the french presidential debate. You can find a blog note about our work [here](https://blog.twitterexplorer.org/post/debatmacronlepen/)
 
+---
+
+# You can find my CV [here](https://github.com/GaspardTissandier/GaspardTissandier.github.io/blob/main/cv/Gaspard_Tissandier_EN.pdf)
 
