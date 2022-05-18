@@ -1,4 +1,4 @@
-# Welcome to my weebsite
+# Welcome to my website
 
 Here you will find informations about my research projects, teaching and ressources
 
