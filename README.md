@@ -20,6 +20,7 @@ You can find a working paper version [here](https://raw.githubusercontent.com/Ga
 
 In this paper, we study the efficiency and displacement effect of a predictive policing algorithm used by the Gendarmerie (a law enforcement authority in France). We use a adapted Two-Way Fixed Effect model and an Open Data criminal database to assess the potential reduction in criminality induced by the use of this algorithm. The, the potential deterrence or displacement effect is measured in neighboring area to understand the diffusion of criminality on a geographic scale. 
 
+
 ### Chosing between AI or Expert : a drift diffusion model approach
 
 This paper addresses the problem of a constrained social planner having to choose between an algorithm and a human expert to execute classification. The social planner have to chose between the both after a certain period of time, and based on a noised efficiency/accuracy measure. I apply a drift diffusion model to this problem, and study the dynamic of resource allocation between these systems.
