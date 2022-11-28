@@ -9,16 +9,16 @@ Here you will find informations about my research projects, teaching and ressour
 
 ### Heterogeneous effects of dropout on labor market outcomes : the French higher education case : 
 
-In this paper, I study the effect of dropping out on labor market outcomes for new entrants in the labor market. I use a french database of students who ended their study in 2010, and are observed until 2013. The focus of this paper is the heterogeneity of the dropout effect, especially how various personal characteristics such as gender, social origin or academic path can shape this effect. 
+In this paper, I ask if the higher education policy implemented in France in 2007 target the right type of first years students. I study the effect of dropping out on labor market outcomes (time in employment and wage) for new entrants in the labor market. I use a french database of students who ended their study in 2010, and are observed until 2013. The focus of this paper is the heterogeneity of the dropout effect, especially how various personal characteristics such as gender, social origin or academic path can shape this effect. 
 
-You can find a working paper version [here](https://github.com/GaspardTissandier/GaspardTissandier.github.io/blob/main/research/draft_HTE_E_SD.pdf)
+You can find a working paper version [here](https://raw.githubusercontent.com/GaspardTissandier/GaspardTissandier.github.io/main/research/Heterogeneous_effect_dropout_policy_Gaspard_Tissandier.pdf?raw=true)
 
 
 
 
 ### PAVED with good intentions : an evaluation of the Gendarmerie predictive policing system (co-authored with Yann Lecorps) 
 
-In this paper, we study the efficiency and displacement effect of a predictive policing algorithm used by the Gendarmerie (a law enforcement authority in France).
+In this paper, we study the efficiency and displacement effect of a predictive policing algorithm used by the Gendarmerie (a law enforcement authority in France). We use a adapted Two-Way Fixed Effect model and an Open Data criminal database to assess the potential reduction in criminality induced by the use of this algorithm. The, the potential deterrence or displacement effect is measured in neighboring area to understand the diffusion of criminality on a geographic scale.  
 
 
 ---
