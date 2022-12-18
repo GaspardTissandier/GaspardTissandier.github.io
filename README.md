@@ -6,7 +6,7 @@ Here you will find informations about my research projects, teaching and ressour
 
 # Research :
 
-I am actually in the last year of my Ph.D., and my dissertation covers the application of machine learning in Public Policy. My work is dedicated to identifying how machine learning pertains to Public Policy, how we can apprehend and make the best of these methods, and how we can use economics theory to regulate machine learning applications in the public sector.
+I am actually in the last year of my Ph.D., and my dissertation covers the application of machine learning in Public Policy. My work is dedicated to identifying how machine learning pertains to Public Policy, how we can apprehend and make the best of these methods, and how we can use economics theory to regulate machine learning applications in the public sector. My fields of application are economics of education and economics of criminality. 
 
 ### Heterogeneous effects of dropout on labor market outcomes : the French higher education case : 
 
