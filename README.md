@@ -15,7 +15,7 @@ In this paper, I ask if the higher education policy implemented in France in 200
 [**[Working paper]**](https://raw.githubusercontent.com/GaspardTissandier/GaspardTissandier.github.io/main/research/Heterogeneous_effect_dropout_policy_Gaspard_Tissandier.pdf?raw=true)
 
 
-### PAVED with good intentions : an evaluation of the Gendarmerie predictive policing system (co-authored with Yann Lecorps) 
+### PAVED with good intentions : an evaluation of the Gendarmerie predictive policing system (joint work with Yann Lecorps) 
 
 In this paper, we study the efficiency and displacement effect of a predictive policing algorithm used by the Gendarmerie (a law enforcement authority in France). We use a adapted Two-Way Fixed Effect model and an Open Data criminal database to assess the potential reduction in criminality induced by the use of this algorithm. The, the potential deterrence or displacement effect is measured in neighboring area to understand the diffusion of criminality on a geographic scale. 
 
@@ -23,7 +23,11 @@ In this paper, we study the efficiency and displacement effect of a predictive p
 
 ---
 
-# Research in progress :
+# Work in progress :
+
+### Social segregation in secondary education based on income brackets (joint work with Pr. Pierre Courtioux and Pr. Tristan-Pierre Maury)
+
+In this paper, we input income brackets on the administrative secondary education students database using a bootstrapping methodology by using external income and living condition databases. Using this framework, we compute different segregation indexes and study their evolution through time. 
 
 ### Chosing between AI or Expert : a multi-armed bandit approach
 
