@@ -4,7 +4,7 @@ Here you will find informations about my research projects, teaching and ressour
 
 ---
 
-# Research :
+# Working paper :
 
 I am actually in the last year of my Ph.D., and my dissertation covers the application of machine learning in Public Policy. My work is dedicated to identifying how machine learning pertains to Public Policy, how we can apprehend and make the best of these methods, and how we can use economics theory to regulate machine learning applications in the public sector. My fields of application are economics of education and economics of criminality. 
 
@@ -15,17 +15,19 @@ In this paper, I ask if the higher education policy implemented in France in 200
 [**[Working paper]**](https://raw.githubusercontent.com/GaspardTissandier/GaspardTissandier.github.io/main/research/Heterogeneous_effect_dropout_policy_Gaspard_Tissandier.pdf?raw=true)
 
 
-
-
 ### PAVED with good intentions : an evaluation of the Gendarmerie predictive policing system (co-authored with Yann Lecorps) 
 
 In this paper, we study the efficiency and displacement effect of a predictive policing algorithm used by the Gendarmerie (a law enforcement authority in France). We use a adapted Two-Way Fixed Effect model and an Open Data criminal database to assess the potential reduction in criminality induced by the use of this algorithm. The, the potential deterrence or displacement effect is measured in neighboring area to understand the diffusion of criminality on a geographic scale. 
 
 [**[Working paper]**](http://ssrn.com/abstract=4314831)
 
-### Chosing between AI or Expert : a drift diffusion model approach
+---
 
-This paper addresses the problem of a constrained social planner having to choose between an algorithm and a human expert to execute classification. The social planner have to chose between the both after a certain period of time, and based on a noised efficiency/accuracy measure. I apply a drift diffusion model to this problem, and study the dynamic of resource allocation between these systems.
+# Research in progress :
+
+### Chosing between AI or Expert : a multi-armed bandit approach
+
+This paper addresses the problem of a constrained social planner having to choose between an algorithm and a human expert to execute classification. The social planner have to chose between the both after a certain period of time, and based on a noised efficiency/accuracy measure. I fit a two-armed bandit on this problem, and study the dynamic of resource allocation between these systems.
 
 
 ---
