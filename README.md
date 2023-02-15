@@ -29,9 +29,9 @@ In this paper, we study the efficiency and displacement effect of a predictive p
 
 In this paper, we input income brackets on the administrative secondary education students database using a bootstrapping methodology by using external income and living condition databases. Using this framework, we compute different segregation indexes and study their evolution through time. 
 
-### Chosing between AI or Expert : a multi-armed bandit approach
+### An application of predictive enforcement (co-authored with Cesar Barilla & Yeon-Koo Che, Columbia University)
 
-This paper addresses the problem of a constrained social planner having to choose between an algorithm and a human expert to execute classification. The social planner have to chose between the both after a certain period of time, and based on a noised efficiency/accuracy measure. I fit a two-armed bandit on this problem, and study the dynamic of resource allocation between these systems.
+Using the NYPD granular data on oﬀenses, we replicate a predictive policing algorithm to predict criminality in real-time on a precise geographical scale in New York City. We apply the Predpol algorithm and develop an algorithm of our own for this aim. Using this setting, we test the hypothesis of "dataﬁcation" in the context of predictive policing. Following a multi-armed bandit setting, in case of law enforcement lead by predictive algorithm, the endogenous data generation will lead to sub-optimal dispatching of units across neighborhood, putting to much weight on exploitation and not enough on exploration.
 
 
 ---
