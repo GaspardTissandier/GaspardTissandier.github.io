@@ -10,9 +10,10 @@ I am actually in the last year of my Ph.D., and my dissertation covers the appli
 
 ### Heterogeneous effects of dropout on labor market outcomes : the French higher education case : 
 
-In this paper, I ask if the higher education policy implemented in France in 2007 target the right type of first years students. I study the effect of dropping out on labor market outcomes (time in employment and wage) for new entrants in the labor market. I use a french database of students who ended their study in 2010, and are observed until 2013. The focus of this paper is the heterogeneity of the dropout effect, especially how various personal characteristics such as gender, social origin or academic path can shape this effect. 
+For higher education system with different tracks, the question of how to allow resources between tracks for dropout policy is fundamental, as in France the university concentrate most of the focus and resources compared to the other technical track. This paper questions this setting by estimating heterogeneous effect of dropping out on labor market outcomes (rate of employment and wages) conditional on the tracks and other socio-demographic characteristics
+of students. I use the GRF algorithm with the distance to the closest higher education institution at 6th grade as an instrument to estimate the effect of dropping out. I find that using 2SLS lead to underestimate the overall effect of dropping by 9 percentage points for the rate of employment, and by 4 percentage points for the average wage. Technical track dropouts are actually more penalized than university dropout on the average wage, but not on the time in employment. 
 
-[**[Working paper]**](https://raw.githubusercontent.com/GaspardTissandier/GaspardTissandier.github.io/main/research/Heterogeneous_effect_dropout_policy_Gaspard_Tissandier.pdf?raw=true)
+[**[Working paper]**](https://raw.githubusercontent.com/GaspardTissandier/GaspardTissandier.github.io/main/research/Tissandier_HED2022.pdf?raw=true)
 
 
 ### PAVED with good intentions : an evaluation of the Gendarmerie predictive policing system (joint work with Yann Lecorps) 
