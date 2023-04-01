@@ -43,5 +43,5 @@ With the Twitter Explorer project team from the DHAI Intensive week we build a t
 
 ---
 
-# You can find my CV [here](https://github.com/GaspardTissandier/GaspardTissandier.github.io/blob/main/cv/Gaspard_Tissandier_Resume_2p.pdf?raw=true)
+# You can find my CV [here](https://raw.githubusercontent.com/GaspardTissandier/GaspardTissandier.github.io/main/cv/Gaspard_Tissandier_Resume.pdf?raw=TRUE)
 
